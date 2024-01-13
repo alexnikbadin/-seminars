@@ -13,7 +13,7 @@ void division(int num)
 }
 Console.WriteLine("Input number");
 int number = Convert.ToInt32(Console.ReadLine());
-division(number);*/
+division(number);
 
 //Задача 2  Напишите программу, которая принимает на вход координаты точки (X и Y), 
 //причём X ≠ 0 и Y ≠ 0 и выдаёт номер координатной четверти плоскости, в которой находится эта точка.
@@ -46,6 +46,30 @@ Console.WriteLine("Input num1");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input num2");
 int num2 = Convert.ToInt32(Console.ReadLine());
-findPlane(num1, num2);
+findPlane(num1, num2);*/
+
+//Задача 3: Напишите программу, которая принимает на вход целое число из отрезка [10, 99] 
+//и показывает наибольшую цифру числа
+
+void findMax()
+{
+    int num = new Random().Next(10, 99 + 1);
+    Console.WriteLine(num);
+    int num1 = num / 10;
+    int num2 = num % 10;
+    if (num1 < num2)
+    {
+        Console.WriteLine(num2);
+    }
+    else if (num1 == num2)
+    {
+        Console.WriteLine("Числа равны");
+    }
+    else
+    {
+        Console.WriteLine(num1);
+    }
+}
+findMax();
 
 
