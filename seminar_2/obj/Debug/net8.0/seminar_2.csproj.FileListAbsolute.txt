@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/bin/Debug/net8.0/seminar_2
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/bin/Debug/net8.0/seminar_2.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/bin/Debug/net8.0/seminar_2.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/bin/Debug/net8.0/seminar_2.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/bin/Debug/net8.0/seminar_2.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/refint/seminar_2.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/seminar_2.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_2/obj/Debug/net8.0/ref/seminar_2.dll
