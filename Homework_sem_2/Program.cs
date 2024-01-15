@@ -1,4 +1,4 @@
-﻿/*// Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23.
+﻿//Задача 1. Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23.
 
 void division(int num)
 {
@@ -46,7 +46,7 @@ Console.WriteLine("Input num1");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input num2");
 int num2 = Convert.ToInt32(Console.ReadLine());
-findPlane(num1, num2);*/
+findPlane(num1, num2);
 
 //Задача 3: Напишите программу, которая принимает на вход целое число из отрезка [10, 99] 
 //и показывает наибольшую цифру числа
@@ -71,5 +71,23 @@ void findMax()
     }
 }
 findMax();
+
+//Задача 4  Напишите программу, которая на вход принимает натуральное 
+//число N, а на выходе показывает его цифры через запятую.
+
+
+void numbers(int num)
+{
+    string numForsplit = num.ToString();
+    string[] result = numForsplit.Split(',');
+    foreach (var x in result)
+    {
+        Console.WriteLine($" , {x} , ");
+    }
+
+}
+Console.WriteLine("Input number");
+int number = Convert.ToInt32(Console.ReadLine());
+numbers(number);
 
 
