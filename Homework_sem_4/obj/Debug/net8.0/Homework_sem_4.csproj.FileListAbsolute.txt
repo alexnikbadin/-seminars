@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/bin/Debug/net8.0/Homework_sem_4
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/bin/Debug/net8.0/Homework_sem_4.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/bin/Debug/net8.0/Homework_sem_4.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/bin/Debug/net8.0/Homework_sem_4.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/bin/Debug/net8.0/Homework_sem_4.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/refint/Homework_sem_4.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/Homework_sem_4.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/Homework_sem_4/obj/Debug/net8.0/ref/Homework_sem_4.dll
