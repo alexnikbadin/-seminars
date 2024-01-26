@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/bin/Debug/net8.0/seminar_6_strings
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/bin/Debug/net8.0/seminar_6_strings.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/bin/Debug/net8.0/seminar_6_strings.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/bin/Debug/net8.0/seminar_6_strings.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/bin/Debug/net8.0/seminar_6_strings.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/refint/seminar_6_strings.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/seminar_6_strings.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/-seminars/seminar_6_strings/obj/Debug/net8.0/ref/seminar_6_strings.dll
